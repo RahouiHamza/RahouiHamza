@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/RahouiHamza?label=Follow&style=social)
 <img src="https://komarev.com/ghpvc/?username=RahouiHamza&label=Profile%20views&color=0e75b6&style=plastic" alt="RahouiHamza" width="110px" /> 
 
-![YourNameCOverImage](https://media.licdn.com/dms/image/D4E16AQE6EVLGr0QFDw/profile-displaybackgroundimage-shrink_350_1400/0/1692022498454?e=1701302400&v=beta&t=yqbWDeEOu3wc5sc1A31O1LohUGGK8NSBnmXKgkCkt7s)
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+a+Full+Stack+Web+Developer"></a>
