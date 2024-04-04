@@ -47,6 +47,9 @@
 		<td><code><img width="50" src="https://mui.com/static/logo.png" alt="MaterielUi" title="MaterielUi"/></code></td>
 		<td><code><img width="50" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Expressjs" title="Expressjs"/></code></td>
         </tr>
+	<tr>
+            <td><code><img width="45" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="React Query" title="React Query"/></code></td>
+        </tr>
 	</table>
 </div>
 
