@@ -49,7 +49,9 @@
         </tr>
 	<tr>
             <td><code><img width="45" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="React Query" title="React Query"/></code></td>
-		<td><code><img width="45" src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="React Query" title="NextJs"/></code></td>
+		<td><code><img width="45" src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="NextJs" title="NextJs"/></code></td>
+		<td><code><img width="45" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" title="docker"/></code></td>
+		<td><code><img width="45" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" title="postman"/></code></td>
         </tr>
 	</table>
 </div>
