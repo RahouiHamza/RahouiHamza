@@ -49,6 +49,7 @@
         </tr>
 	<tr>
             <td><code><img width="45" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="React Query" title="React Query"/></code></td>
+		<td><code><img width="45" src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="React Query" title="NextJs"/></code></td>
         </tr>
 	</table>
 </div>
