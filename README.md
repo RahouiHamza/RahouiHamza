@@ -40,18 +40,18 @@
             <td><code><img width="45" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
         </tr>
         <tr>
-            <td><code><img width="45" src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" alt="Laravel" title="Laravel"/></code></td>
+            <td><code><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" title="Laravel"/></code></td>
             <td><code><img width="45" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code></td>
 	    <td><code><img width="45" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></code></td>
 	    <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
 		<td><code><img width="50" src="https://mui.com/static/logo.png" alt="MaterielUi" title="MaterielUi"/></code></td>
-		<td><code><img width="50" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Expressjs" title="Expressjs"/></code></td>
+		<td><code><img width="50" src="https://lh3.googleusercontent.com/proxy/ua0C_VwZ6R4QOzqx70fc2bIKU8gJ_kLJqNlLrgeIoNjpTdI7LtHPF6plk6NLxM33qnWCjMFnLebg4J-JkSpUTnMKBlNUCfzHSDi9ED5n6_bk5efXTBGOwBSPY7emPSat2Ou2F4lh3KMTtoPh4Q_7z0s2" alt="Expressjs" title="Expressjs"/></code></td>
         </tr>
 	<tr>
-            <td><code><img width="45" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="React Query" title="React Query"/></code></td>
+            <td><code><img width="45" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/react-query-icon-xjukes5xosrrwg3y3ics1f.png/react-query-icon-2dw36yx2b016w37mbipyn.png?_a=DATAg1AAZAA0" alt="React Query" title="React Query"/></code></td>
 		<td><code><img width="45" src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="NextJs" title="NextJs"/></code></td>
 		<td><code><img width="45" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" title="docker"/></code></td>
-		<td><code><img width="45" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" title="postman"/></code></td>
+		<td><code><img width="45" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png" alt="postman" title="postman"/></code></td>
         </tr>
 	</table>
 </div>
