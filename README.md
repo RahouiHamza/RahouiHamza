@@ -45,10 +45,10 @@
 	    <td><code><img width="45" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></code></td>
 	    <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
 		<td><code><img width="50" src="https://mui.com/static/logo.png" alt="MaterielUi" title="MaterielUi"/></code></td>
-		<td><code><img width="50" src="https://lh3.googleusercontent.com/proxy/ua0C_VwZ6R4QOzqx70fc2bIKU8gJ_kLJqNlLrgeIoNjpTdI7LtHPF6plk6NLxM33qnWCjMFnLebg4J-JkSpUTnMKBlNUCfzHSDi9ED5n6_bk5efXTBGOwBSPY7emPSat2Ou2F4lh3KMTtoPh4Q_7z0s2" alt="Expressjs" title="Expressjs"/></code></td>
+		<td><code><img width="50" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="Expressjs" title="Expressjs"/></code></td>
         </tr>
 	<tr>
-            <td><code><img width="45" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/react-query-icon-xjukes5xosrrwg3y3ics1f.png/react-query-icon-2dw36yx2b016w37mbipyn.png?_a=DATAg1AAZAA0" alt="React Query" title="React Query"/></code></td>
+            <td><code><img width="45" src="https://user-images.githubusercontent.com/46889813/106451545-c7cef300-6497-11eb-80d9-e51c9fc3cd33.png" alt="React Query" title="React Query"/></code></td>
 		<td><code><img width="45" src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="NextJs" title="NextJs"/></code></td>
 		<td><code><img width="45" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" title="docker"/></code></td>
 		<td><code><img width="45" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png" alt="postman" title="postman"/></code></td>
