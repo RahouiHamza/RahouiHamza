@@ -45,7 +45,7 @@
 	    <td><code><img width="45" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></code></td>
 	    <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
 		<td><code><img width="50" src="https://mui.com/static/logo.png" alt="MaterielUi" title="MaterielUi"/></code></td>
-		<td><code><img width="50" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="Expressjs" title="Expressjs"/></code></td>
+		<td><code><img width="50" src="https://img.icons8.com/fluent/512/express-js.png" alt="Expressjs" title="Expressjs"/></code></td>
         </tr>
 	<tr>
             <td><code><img width="45" src="https://user-images.githubusercontent.com/46889813/106451545-c7cef300-6497-11eb-80d9-e51c9fc3cd33.png" alt="React Query" title="React Query"/></code></td>
